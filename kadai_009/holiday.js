@@ -3,5 +3,7 @@ console.log(holidays);
 for (const i of holidays) {
   console.log(i);
 }
-
-
+while (holidays[0] <= "勤労感謝の日") {
+  console.log(holidays[0]);
+  i++;
+}
